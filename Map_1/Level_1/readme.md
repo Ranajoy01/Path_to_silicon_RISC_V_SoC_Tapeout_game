@@ -1,7 +1,7 @@
   #  :checkered_flag:Level-1(Day-0):Inauguration Call and Program Overview
 
  ## :dart: <b>Objective-1:</b> Insight of the program,overview and curriculam outline
- :rocket: This call gave us the enthusiasm for stepping into the SoC design program.
+ :rocket: This call increased the enthusiasm for stepping into the SoC design program and work for India.
  
 ### :bulb: Key Learnings
 
