@@ -25,7 +25,7 @@
   ##  :checkered_flag:Level-3(Day-2):Tools Check
   :rocket:The open source tools like Yosys,iverilog,GTK Wave are installed in my Ubuntu 64 bit VM for RTL design,verification and sysnthesis task.
   <br>
-  :page_facing_up: <b>[Explore Level-3](Map_1/Level_3/readme.md)</b>
+  :walking: <b>[Explore Level-3](Map_1/Level_3/readme.md)</b>
   <br>
   :chart_with_upwards_trend: <b>Level-3 Status:</b> :white_check_mark: Completed
   </details>
