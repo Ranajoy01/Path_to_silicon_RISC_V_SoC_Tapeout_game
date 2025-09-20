@@ -46,6 +46,7 @@ sudo apt-get install gtkwave
 <div align="center">:trophy:<b>Status:</b> <mark>Validated GTKWave Installation Objective</mark></div>
 
 ## :star: Level Status: 
+
 <br>
 -All objectives completed.
 -SoC design flow begins with these tools.
