@@ -1,9 +1,7 @@
   #  :checkered_flag:Level-3(Day-2):Tools Check
 
-  ## Yosys
+ ## :dart: <b>Objective-1:</b> Install Yosys and validate the installation process
  :rocket: Yosys is a lightweight, open-source tool for synthesizing Verilog designs into gate-level netlists or intermediate representations suitable for FPGAs and ASICs.
- 
- ### :dart: <b>Objective-1:</b> Install yosys and validate the installation process
  
  ### 📥: Yosys installation
  
