@@ -19,7 +19,7 @@
  ```
   ### 🖼️ Installation Validation
 ![Yosys install](/Map_1/Level_3/images/yosys_install.png)
-<div align="center">:trophy: <mark>Validated Yosys Installation Objective</mark></div>
+<div align="center">:trophy:<b>Status:</b>  <mark>Validated Yosys Installation Objective</mark></div>
 
 ## :dart: <b>Objective-2:</b> Install IVerilog and validate the installation process(Task-2)
  :rocket: Icarus Verilog is an open-source Verilog simulation and synthesis tool that compiles Verilog HDL designs into simulation executables. It is mainly used for functional simulation of digital circuits.
@@ -31,7 +31,7 @@ sudo apt-get install iverilog
  ```
   ### 🖼️ Installation Validation
 ![Yosys install](/Map_1/Level_3/images/iverilog_install.png)
-<div align="center">:trophy: <mark>Validated iverilog Installation Objective</mark></div>
+<div align="center">:trophy:<b>Status:</b>  <mark>Validated iverilog Installation Objective</mark></div>
 
 ## :dart: <b>Objective-3:</b> Install GTKWave and validate the installation process(Task-2)
 GTKWave is a graphical waveform viewer used to visualize simulation results of digital designs, typically from Verilog, VHDL, or mixed HDL simulations. It helps designers debug and verify digital circuits by displaying signals over time.
@@ -43,5 +43,5 @@ sudo apt-get install gtkwave
  ```
   ### 🖼️ Installation Validation
 ![Yosys install](/Map_1/Level_3/images/gtkwave_install.png)
-<div align="center">:trophy: <mark>Validated GTKWave Installation Objective</mark></div>
+<div align="center">:trophy:<b>Status:</b> <mark>Validated GTKWave Installation Objective</mark></div>
 
