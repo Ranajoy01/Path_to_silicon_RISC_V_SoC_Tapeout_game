@@ -3,7 +3,7 @@
  ## :dart: <b>Objective-1:</b> Install Yosys and validate the installation process(Task-2)
  :rocket: Yosys is a lightweight, open-source tool for synthesizing Verilog designs into gate-level netlists or intermediate representations suitable for FPGAs and ASICs.
  
- ### 📥: Yosys installation
+ ### 📥 Yosys installation
  
  ```
  $ sudo apt-get update
@@ -17,18 +17,18 @@
  $ make
  $ sudo make install
  ```
-  ### 🖼️:Installation Validation
+  ### 🖼️ Installation Validation
 ![Yosys install](/Map_1/Level_3/images/yosys_install.png)
 <div align="center">:trophy: <mark>Validated Yosys Installation Objective</mark></div>
 
 ## :dart: <b>Objective-2:</b> Install IVerilog and validate the installation process(Task-2)
  :rocket: Icarus Verilog is an open-source Verilog simulation and synthesis tool that compiles Verilog HDL designs into simulation executables. It is mainly used for functional simulation of digital circuits.
- ### 📥: IVerilog installation
+ ### 📥 IVerilog installation
  
  ```
 sudo apt-get update
 sudo apt-get install iverilog
  ```
-  ### 🖼️:Installation Validation
+  ### 🖼️ Installation Validation
 ![Yosys install](/Map_1/Level_3/images/iverilog_install.png)
 <div align="center">:trophy: <mark>Validated iverilog Installation Objective</mark></div>
