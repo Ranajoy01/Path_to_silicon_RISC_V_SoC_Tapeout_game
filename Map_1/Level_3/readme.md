@@ -5,7 +5,7 @@
 
  ### 📥: Yosys installation
 
- '''
+ ```
  
  $ sudo apt-get update
  $ git clone https://github.com/YosysHQ/yosys.git
@@ -15,6 +15,6 @@
  graphviz xdot pkg-config python3 libboost-system-dev \
  libboost-python-dev libboost-filesystem-dev zlib1g-dev
  $ make config-gcc
- '''
+ ```
  
-![Yosys install](Map_1/Level_3/images/yosys_install)
+![Yosys install](Map_1/Level_3/images/yosys_install.png)
