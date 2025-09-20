@@ -4,16 +4,16 @@
  :rocket: VirtualBox is a free and open-source x86 and AMD64/Intel64 virtualization software developed by Oracle. It allows users to run multiple operating systems simultaneously on a single physical machine.
  
  ### 📥 VirtualBox installation
- Virtual box is installed using the following link-
+ VirtualBox 7.1 is installed using the following link-
  [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
  ### 🖼️ Installation Validation
 ![VirtualBox install](/Map_1/Level_2/images/virtualbox_install.png)
 <div align="center">:trophy:<b>Status:</b>  <mark>Validated VirtualBox Installation Objective</mark></div>
 
 ## :dart: <b>Objective-2:</b> Install Ubuntu iso,setup Ubuntu VM and validate the installation process(Task-2)
- :rocket: Icarus Verilog is an open-source Verilog simulation and synthesis tool that compiles Verilog HDL designs into simulation executables. It is mainly used for functional simulation of digital circuits.
+ :rocket: Ubuntu is the most commonly used Linux distribution for open-source EDA/VLSI workflows because it provides a stable, compatible, and developer-friendly environment.
  ### 📥Ubuntu iso installation
- Ubuntu LTS iso is installed using the following link-
+ Ubuntu 24.04.3 LTS iso is installed using the following link-
  [https://ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
 ### 🖼️ Installation Validation
 ![Yosys install](/Map_1/Level_2/images/Ubuntu_install.png)
