@@ -45,3 +45,8 @@ sudo apt-get install gtkwave
 ![Yosys install](/Map_1/Level_3/images/gtkwave_install.png)
 <div align="center">:trophy:<b>Status:</b> <mark>Validated GTKWave Installation Objective</mark></div>
 
+## :star: Level Status: 
+<br>
+-All objectives completed.
+-SoC design flow begins with these tools.
+-🔓 Next level unlocked.
