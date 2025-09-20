@@ -1,37 +1,23 @@
-  #  :checkered_flag:Level-3(Day-2):System Check
+  #  :checkered_flag:Level-2(Day-1):System Check and SoC design flow lecture
 
- ## :dart: <b>Objective-1:</b> Install Yosys and validate the installation process(Task-2)
- :rocket: Yosys is a lightweight, open-source tool for synthesizing Verilog designs into gate-level netlists or intermediate representations suitable for FPGAs and ASICs.
+ ## :dart: <b>Objective-1:</b> Install Virtual box and validate the installation process(Task-2)
+ :rocket: VirtualBox is a free and open-source x86 and AMD64/Intel64 virtualization software developed by Oracle. It allows users to run multiple operating systems simultaneously on a single physical machine.
  
- ### 📥 Yosys installation
- 
- ```
- $ sudo apt-get update
- $ git clone https://github.com/YosysHQ/yosys.git
- $ cd yosys
- $ sudo apt-get install build-essential clang bison flex \
- libreadline-dev gawk tcl-dev libffi-dev git \
- graphviz xdot pkg-config python3 libboost-system-dev \
- libboost-python-dev libboost-filesystem-dev zlib1g-dev
- $ make config-gcc
- $ make
- $ sudo make install
- ```
-  ### 🖼️ Installation Validation
-![Yosys install](/Map_1/Level_3/images/yosys_install.png)
-<div align="center">:trophy:<b>Status:</b>  <mark>Validated Yosys Installation Objective</mark></div>
+ ### 📥 VirtualBox installation
+ Virtual box is installed using the following link-
+ [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
+ ### 🖼️ Installation Validation
+![VirtualBox install](/Map_1/Level_2/images/virtualbox_install.png)
+<div align="center">:trophy:<b>Status:</b>  <mark>Validated VirtualBox Installation Objective</mark></div>
 
-## :dart: <b>Objective-2:</b> Install IVerilog and validate the installation process(Task-2)
+## :dart: <b>Objective-2:</b> Install Ubuntu iso,setup Ubuntu VM and validate the installation process(Task-2)
  :rocket: Icarus Verilog is an open-source Verilog simulation and synthesis tool that compiles Verilog HDL designs into simulation executables. It is mainly used for functional simulation of digital circuits.
- ### 📥 IVerilog installation
- 
- ```
-sudo apt-get update
-sudo apt-get install iverilog
- ```
-  ### 🖼️ Installation Validation
-![Yosys install](/Map_1/Level_3/images/iverilog_install.png)
-<div align="center">:trophy:<b>Status:</b>  <mark>Validated iverilog Installation Objective</mark></div>
+ ### 📥Ubuntu iso installation
+ Ubuntu LTS iso is installed using the following link-
+ [https://ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
+### 🖼️ Installation Validation
+![Yosys install](/Map_1/Level_2/images/Ubuntu_install.png)
+<div align="center">:trophy:<b>Status:</b>  <mark>Validated Ubuntu iso Installation and Ubuntu VM setup Objective</mark></div>
 
 ## :dart: <b>Objective-3:</b> Install GTKWave and validate the installation process(Task-2)
 GTKWave is a graphical waveform viewer used to visualize simulation results of digital designs, typically from Verilog, VHDL, or mixed HDL simulations. It helps designers debug and verify digital circuits by displaying signals over time.
