@@ -4,5 +4,9 @@
   <summary>🗺️:Map-1(Week-0):Introduction,Tool setup and RTL design</summary>
 
   ## 🗺️: Map-1(Week-0):Introduction,Tool setup and RTL design
-  
+  <details>
+  <summary>:checkered_flag:Level-1(Day-0):Inauguration call and program overview </summary>
+    
+  ##  :checkered_flag:Level-1(Day-0):Inauguration call and program overview
+  </details>
 </details>
