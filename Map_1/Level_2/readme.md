@@ -36,7 +36,7 @@ GTKWave is a graphical waveform viewer used to visualize simulation results of d
   
  
 ### 🖼️ SoC design flow-chart
-![SoC design flow-chart](/Map_1/Level_2/soc_flow.png)
+![SoC design flow-chart](/Map_1/Level_2/images/soc_flow.png)
 <div align="center">:trophy:<b>Status:</b> <mark>Summarized the learning</mark></div>
 
 ## :star: Level Status: 
