@@ -12,4 +12,16 @@
     
   ##  :checkered_flag:Level-1(Day-0):Inauguration call and program overview
   </details>
+
+  <details>
+  <summary>:checkered_flag:Level-2(Day-1):System Check and SoC Design flow Lecture </summary>
+    
+  ##  :checkered_flag:Level-2(Day-1):Inauguration call and program overview
+  </details>
+  
+  <details>
+  <summary>:checkered_flag:Level-3(Day-2):Tools Check </summary>
+    
+  ##  :checkered_flag:Level-3(Day-2):Inauguration call and program overview
+  </details>
 </details>
