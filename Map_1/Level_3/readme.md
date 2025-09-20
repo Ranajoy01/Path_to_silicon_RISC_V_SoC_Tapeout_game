@@ -6,6 +6,7 @@
  ### 📥: Yosys installation
 
  '''
+ 
  $ sudo apt-get update
  $ git clone https://github.com/YosysHQ/yosys.git
  $ cd yosys
@@ -16,3 +17,4 @@
  $ make config-gcc
  '''
  
+![Yosys install](/Map_1/Level_3/images/yosys_install)
