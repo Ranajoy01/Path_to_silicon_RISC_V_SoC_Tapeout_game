@@ -1,4 +1,6 @@
 # :video_game: Path_to_silicon_RISC_V_SoC_Tapeout_gameplay_progress
+<div align="center">:man_technologist:<b>Developer:</b>VlSI SYSTEM DESIGN(VSD) Team</div>
+<div align="center">:joystick:<b>Player-ID:</b>Ranajoy Ghoshal</div>
 
 :rocket: Welcome to the gameplay report of the <b> RISC-V SoC Tapeout EdTech Game </b> :video_game:
 <details>
