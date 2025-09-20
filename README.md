@@ -11,6 +11,11 @@
   <summary>:checkered_flag:Level-1(Day-0):Inauguration call and program overview </summary>
     
   ##  :checkered_flag:Level-1(Day-0):Inauguration call and program overview
+  :rocket:The journey starts with the inauguration call on 📆:18<sup>th</sup> September,2025 from ⏲️: 8:00 pm to 9:00 pm.
+  <br>
+  :walking: <b>[Explore Level-1](Map_1/Level_1/readme.md)</b>
+  <br>
+  :chart_with_upwards_trend: <b>Level-1 Status:</b> :white_check_mark: Completed
   </details>
 
   <details>
