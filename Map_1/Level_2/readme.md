@@ -16,7 +16,8 @@
  Ubuntu 24.04.3 LTS iso is installed using the following link-
  [https://ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
 ### 🖼️ Installation Validation
-![Yosys install](/Map_1/Level_2/images/Ubuntu_install.png)
+![VM specification](/Map_1/Level_2/images/vm_specification.png)
+![Ubuntu install](/Map_1/Level_2/images/ubuntu_install.png)
 <div align="center">:trophy:<b>Status:</b>  <mark>Validated Ubuntu iso Installation and Ubuntu VM setup Objective</mark></div>
 
 ## :dart: <b>Objective-3:</b> Install GTKWave and validate the installation process(Task-2)
