@@ -19,4 +19,4 @@
  ```
   ### 🖼️:Installation Validation
 ![Yosys install](/Map_1/Level_3/images/yosys_install.png)
-<div align="center">:trophy: Validated Yosys Installation Objective</div>
+<div align="center">:trophy: <mark>Validated Yosys Installation Objective</mark></div>
