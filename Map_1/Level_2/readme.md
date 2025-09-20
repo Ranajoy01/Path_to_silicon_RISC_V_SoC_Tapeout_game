@@ -10,11 +10,18 @@
 ![VirtualBox install](/Map_1/Level_2/images/virtualbox_install.png)
 <div align="center">:trophy:<b>Status:</b>  <mark>Validated VirtualBox Installation Objective</mark></div>
 
-## :dart: <b>Objective-2:</b> Install Ubuntu iso,setup Ubuntu VM and validate the installation process(Task-2)
+## :dart: <b>Objective-2:</b> Install Ubuntu iso,setup Ubuntu VM as per system check and validate the installation process(Task-2)
  :rocket: Ubuntu is the most commonly used Linux distribution for open-source EDA/VLSI workflows because it provides a stable, compatible, and developer-friendly environment.
  ### 📥Ubuntu iso installation
  Ubuntu 24.04.3 LTS iso is installed using the following link-
  [https://ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
+ ### :memo: System Spcification
+ |Parameter|Specification|
+ |:----:|:----:|
+ |RAM|6 GB|
+ |HDD|50 GB|
+ |vCPU|4|
+ |Ubuntu|20.04+|
 ### 🖼️ Installation Validation
 ![VM specification](/Map_1/Level_2/images/vm_specification.png)
 <div align="center">:trophy:<b>Status:</b>  <mark>Validated System Specification Objective except the RAM size(4864 MB)</mark></div>
