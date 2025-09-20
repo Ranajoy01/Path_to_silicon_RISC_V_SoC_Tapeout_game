@@ -14,6 +14,8 @@
  graphviz xdot pkg-config python3 libboost-system-dev \
  libboost-python-dev libboost-filesystem-dev zlib1g-dev
  $ make config-gcc
+ $ make
+ $ sudo make install
  ```
   ### 🖼️:Installation Validation
 ![Yosys install](/Map_1/Level_3/images/yosys_install.png)
