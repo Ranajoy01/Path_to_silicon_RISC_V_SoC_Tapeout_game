@@ -23,7 +23,7 @@
   <summary>:checkered_flag:Level-3(Day-2):Tools Check </summary>
     
   ##  :checkered_flag:Level-3(Day-2):Tools Check
-  :page_facing_up: <b>[Explore Level-3](Map_1/Level_3)</b>
+  :page_facing_up: <b>[Explore Level-3](Map_1/Level_3/readme.md)</b>
   :chart_with_upwards_trend: <b>Level-3 Status:</b> :white_check_mark: Completed
   </details>
 </details>
