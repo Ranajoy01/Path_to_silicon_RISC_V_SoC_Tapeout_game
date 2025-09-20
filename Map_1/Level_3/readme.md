@@ -49,4 +49,4 @@ sudo apt-get install gtkwave
 
 - All objectives completed.
 - SoC design flow begins with these tools.
-- 🔓 Next level unlocked 🔜: Digital design using verilog,verification and synthesis.
+- 🔓 Next level unlocked 🔜 Digital design using verilog,verification and synthesis.
