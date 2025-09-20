@@ -22,21 +22,23 @@
 ![Ubuntu install](/Map_1/Level_2/images/ubuntu_install.png)
 <div align="center">:trophy:<b>Status:</b>  <mark>Validated Ubuntu iso Installation and Ubuntu VM setup Objective</mark></div>
 
-## :dart: <b>Objective-3:</b> Install GTKWave and validate the installation process(Task-2)
+## :dart: <b>Objective-3:</b> Summarize the SoC Design flow lecture(Task-1)
 GTKWave is a graphical waveform viewer used to visualize simulation results of digital designs, typically from Verilog, VHDL, or mixed HDL simulations. It helps designers debug and verify digital circuits by displaying signals over time.
-### 📥 GTKWave installation
+### :bulb: Key Learnings
+
+- Overview of the chip design cycle.
+- Importance of verification in different stages of the design flow.
+- Actual difference between microprocessor and microcontroller.
+- Difference between processor, macros, analog IPs and their integration to build SoC.
+  
  
- ```
-sudo apt-get update
-sudo apt-get install gtkwave
- ```
-  ### 🖼️ Installation Validation
-![Yosys install](/Map_1/Level_3/images/gtkwave_install.png)
+### 🖼️ SoC design flow-chart
+![SoC design flow-chart](/Map_1/Level_2/soc_flow.png)
 <div align="center">:trophy:<b>Status:</b> <mark>Validated GTKWave Installation Objective</mark></div>
 
 ## :star: Level Status: 
 
-- All objectives completed.
-- SoC design flow begins with these tools.
-- 🔓 Next level unlocked 🔜 Digital design using verilog,verification and synthesis.
+- All objectives completed except RAM size specification due to total 8 GB of RAM in my system.
+- This is the base of our journey.
+- 🔓 Next level unlocked 🔜 Tools for verilog,verification and synthesis.
 
