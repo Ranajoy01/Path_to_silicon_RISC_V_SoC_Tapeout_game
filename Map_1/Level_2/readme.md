@@ -30,11 +30,14 @@ GTKWave is a graphical waveform viewer used to visualize simulation results of d
 - Importance of verification in different stages of the design flow.
 - Actual difference between microprocessor and microcontroller.
 - Difference between processor, macros, analog IPs and their integration to build SoC.
+- RTL(register transfer level) to GDSII(Graphical Data Stream information interchange) flow.
+- Physical design Terms- Floorplanning, routing,clock tree synthesis, placement.
+- Transistor layer, metal interconnect layer.
   
  
 ### 🖼️ SoC design flow-chart
 ![SoC design flow-chart](/Map_1/Level_2/soc_flow.png)
-<div align="center">:trophy:<b>Status:</b> <mark>Validated GTKWave Installation Objective</mark></div>
+<div align="center">:trophy:<b>Status:</b> <mark>Summarized the learning</mark></div>
 
 ## :star: Level Status: 
 
