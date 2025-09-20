@@ -18,6 +18,7 @@
 ### 🖼️ Installation Validation
 ![VM specification](/Map_1/Level_2/images/vm_specification.png)
 <div align="center">:trophy:<b>Status:</b>  <mark>Validated System Specification Objective except the RAM size(4864 MB)</mark></div>
+
 ![Ubuntu install](/Map_1/Level_2/images/ubuntu_install.png)
 <div align="center">:trophy:<b>Status:</b>  <mark>Validated Ubuntu iso Installation and Ubuntu VM setup Objective</mark></div>
 
