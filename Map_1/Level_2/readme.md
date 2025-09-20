@@ -6,7 +6,7 @@
  ### 📥 VirtualBox installation
  VirtualBox 7.1 is installed using the following link-
  [https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
- ### 🖼️ Installation Validation
+ ### 🖼️ Installation and Specification Validation
 ![VirtualBox install](/Map_1/Level_2/images/virtualbox_install.png)
 <div align="center">:trophy:<b>Status:</b>  <mark>Validated VirtualBox Installation Objective</mark></div>
 
