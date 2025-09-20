@@ -31,4 +31,4 @@ sudo apt-get install iverilog
  ```
   ### 🖼️:Installation Validation
 ![Yosys install](/Map_1/Level_3/images/iverilog_install.png)
-<div align="center">:trophy: <mark>Validated Yosys Installation Objective</mark></div>
+<div align="center">:trophy: <mark>Validated iverilog Installation Objective</mark></div>
