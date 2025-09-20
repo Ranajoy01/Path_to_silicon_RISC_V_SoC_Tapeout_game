@@ -48,6 +48,6 @@ sudo apt-get install gtkwave
 ## :star: Level Status: 
 
 <br>
--All objectives completed.
--SoC design flow begins with these tools.
--🔓 Next level unlocked.
+- All objectives completed.
+- SoC design flow begins with these tools.
+- 🔓 Next level unlocked.
