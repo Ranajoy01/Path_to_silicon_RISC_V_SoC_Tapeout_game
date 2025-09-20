@@ -32,3 +32,16 @@ sudo apt-get install iverilog
   ### 🖼️ Installation Validation
 ![Yosys install](/Map_1/Level_3/images/iverilog_install.png)
 <div align="center">:trophy: <mark>Validated iverilog Installation Objective</mark></div>
+
+## :dart: <b>Objective-3:</b> Install GTKWave and validate the installation process(Task-2)
+GTKWave is a graphical waveform viewer used to visualize simulation results of digital designs, typically from Verilog, VHDL, or mixed HDL simulations. It helps designers debug and verify digital circuits by displaying signals over time.
+### 📥 GTKWave installation
+ 
+ ```
+sudo apt-get update
+sudo apt-get install gtkwave
+ ```
+  ### 🖼️ Installation Validation
+![Yosys install](/Map_1/Level_3/images/gtkwave_install.png)
+<div align="center">:trophy: <mark>Validated GTKWave Installation Objective</mark></div>
+
