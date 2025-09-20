@@ -30,7 +30,6 @@
 <div align="center">:trophy:<b>Status:</b>  <mark>Validated Ubuntu iso Installation and Ubuntu VM setup Objective</mark></div>
 
 ## :dart: <b>Objective-3:</b> Summarize the SoC Design flow lecture(Task-1)
-GTKWave is a graphical waveform viewer used to visualize simulation results of digital designs, typically from Verilog, VHDL, or mixed HDL simulations. It helps designers debug and verify digital circuits by displaying signals over time.
 ### :bulb: Key Learnings
 
 - Overview of the chip design cycle.
