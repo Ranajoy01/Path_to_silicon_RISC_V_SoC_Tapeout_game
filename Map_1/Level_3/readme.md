@@ -2,7 +2,9 @@
 
   ## Yosys
  :rocket: Yosys is a lightweight, open-source tool for synthesizing Verilog designs into gate-level netlists or intermediate representations suitable for FPGAs and ASICs.
-
+ 
+ ### :dart: <b>Objective-1:</b> Install yosys and validate the installation process
+ 
  ### 📥: Yosys installation
  
  ```
@@ -15,5 +17,6 @@
  libboost-python-dev libboost-filesystem-dev zlib1g-dev
  $ make config-gcc
  ```
- 
+  ### 🖼️:Installation Validation
 ![Yosys install](/Map_1/Level_3/images/yosys_install.png)
+<div align="center">☑️: Validated Yosys Installation Objective</div>
