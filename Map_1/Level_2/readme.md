@@ -16,12 +16,12 @@
  Ubuntu 24.04.3 LTS iso is installed using the following link-
  [https://ubuntu.com/download/desktop](https://ubuntu.com/download/desktop)
  ### :memo: System Spcification
- |Parameter|Specification|
- |:----:|:----:|
- |RAM|6 GB|
- |HDD|50 GB|
- |vCPU|4|
- |Ubuntu|20.04+|
+ |Parameter|Specification Given|My system specification|
+ |:----:|:----:|:----:|
+ |RAM|6 GB|4864 MB|
+ |HDD|50 GB|70 GB|
+ |vCPU|4|6|
+ |Ubuntu|20.04+|24.04.3 LTS|
 ### 🖼️ Installation Validation
 ![VM specification](/Map_1/Level_2/images/vm_specification.png)
 <div align="center">:trophy:<b>Status:</b>  <mark>Validated System Specification Objective except the RAM size(4864 MB)</mark></div>
